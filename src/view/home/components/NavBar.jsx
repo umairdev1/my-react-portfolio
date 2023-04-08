@@ -17,8 +17,8 @@ const MainNav = styled.nav`
   display: flex;
   flex-direction: row;
   .nav-title {
-    font-weight: 600;
-    font-size: 13px;
+    font-weight: 500;
+    font-size: 14px;
     text-transform: capitalize;
     justify-items: center;
     align-items: center;

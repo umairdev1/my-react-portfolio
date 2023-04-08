@@ -13,9 +13,9 @@ export const GlobalStyle = styled.createGlobalStyle`
     display: grid;
     gap: 4rem;
   }
-  .grid-two-column {
+  /* .grid-two-column {
     grid-template-columns: repeat(2, 1fr);
-  }
+  } */
   .grid-three-column {
     grid-template-columns: repeat(3, 0);
   }
